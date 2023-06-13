@@ -23,7 +23,7 @@ mother enter the NIC no and click to search and get child details under the NIC 
 rd link is edit my details, mother can edit some her details.
 Second link in the welcome page is Admin. Only admin can access the link. First admin
 enter username and password and login the link and get Admin open page. Admin open page
-have 7 link. First link have add news in image format. Second link in the admin open page is
+have 7 link. First link have add news in image format. Second link in the admin open page is 
 add mother’s details its mean admin add mother pregnancy details in this page. 3
 rd link is admin
 can edit mother details. 4th link is admin can add child link, 5th link is admin can edit child
