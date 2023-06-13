@@ -1,0 +1,129 @@
+body{
+	background: #eee;
+
+}
+#frm
+{
+	border: solid gray 1px;
+	width: 20%;
+	background: #E60000;
+	border-radius: 5px;
+	margin: 100px auto;
+	padding: 50px;
+}
+#btn{
+border:2px solid;
+        padding: 0.3rem 0.7rem;
+        font-weight: bolder;
+        background-color: transparent;
+        transition: background-color 800ms, color 800ms;
+        border-radius: 4px;
+}
+#btn2{
+	color: #fff;
+	margin-left:20%;
+	padding: 5px;
+	background: #337ab7;
+}
+#bg{
+  background-image: url('kal.jpg');
+  background-repeat: no-repeat;
+ background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+#txt1{
+    width: 100%;
+    color: #FFF;
+    background: transparent;
+    
+    outline: none;
+    border: 2px solid gray;
+  border-radius: 4px;
+};
+#txt2{
+    width: 100%;
+    color: #FFF;
+    background: transparent;
+    
+    outline: none;
+    border: 2px solid gray;
+  border-radius: 4px;
+};
+#txt3{
+    width: 100%;
+    color: #FFF;
+    background: transparent;
+    
+    outline: none;
+    border: 2px solid gray;
+  border-radius: 4px;
+};
+#txt4{
+    width: 100%;
+    color: #FFF;
+    background: transparent;
+    
+    outline: none;
+    border: 2px solid gray;
+  border-radius: 4px;
+};
+#txt5{
+    width: 100%;
+    color: #FFF;
+    background: transparent;
+    
+    outline: none;
+    border: 2px solid gray;
+  border-radius: 4px;
+};
+#txt6{
+    width: 100%;
+    color: #FFF;
+    background: transparent;
+    
+    outline: none;
+    border: 2px solid gray;
+  border-radius: 4px;
+};
+#txt7{
+    width: 100%;
+    color: #FFF;
+    background: transparent;
+    
+    outline: none;
+    border: 2px solid gray;
+  border-radius: 4px;
+};
+#txt8{
+    width: 100%;
+    color: #FFF;
+    background: transparent;
+    
+    outline: none;
+    border: 2px solid gray;
+  border-radius: 4px;
+
+};
+#txt9{
+    width: 100%;
+    color: #FFF;
+    background: transparent;
+    
+    outline: none;
+    border: 2px solid gray;
+  border-radius: 4px;
+  }
+#rad1{
+
+ background: transparent;
+}
+#rad2{
+    width: 100%;
+    color: #FFF;
+    background: transparent;
+    
+    outline: none;
+    border: 2px solid gray;
+  border-radius: 4px;
+}
